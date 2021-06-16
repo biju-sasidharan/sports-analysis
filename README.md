@@ -5,7 +5,7 @@ The insights generated from the analysis, along with the understanding of domain
 
 <br>
 <p align="center">
-<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/FIFA.jpg">
+<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/FIFA.jpg" width="450" height="300">
 </p>
 <br>
 
