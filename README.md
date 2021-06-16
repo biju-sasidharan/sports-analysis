@@ -13,7 +13,7 @@ The insights generated from the analysis, along with the understanding of domain
 The dataset have 18207 rows and 89 columns.
 
 ### Analysis
-Below given are few of the analysis done the data.
+Below given are few analysis done on the data.
 1. Score distribution of different abilities
 2. Most preferred foot of the players
 3. International reputation for the players
@@ -36,6 +36,7 @@ Below given are few of the analysis done the data.
 20.	Distribution of International Reputation in some popular clubs
 
 ### Few Findings
+Below given are few findings based on the analysis.
 1. Defending, General, Passing and Mobility have values ranging till 100. That means, we can get players having these skills very easily.
 2. Most players prefer the right foot.
 3. Very few players have 5-star International reputation rating.
